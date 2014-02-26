@@ -11,3 +11,4 @@ supports 'amazon'
 supports 'ubuntu'
 
 depends 'git'
+depends 'iptables'
